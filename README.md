@@ -1,8 +1,11 @@
-Project Name
+Project Name:
+
 MyOnlineMeal
 
-Project Description 
+Project Description:
+
 My first project. A  frontend webite for an online restaurant.
 
-Technologies
+Technologies:
+
 HTML, CSS
